@@ -85,7 +85,7 @@ __4/__ `SELECT inscription, email FROM utilisateur WHERE inscription = current_d
 __5/__ `SELECT * FROM utilisateur WHERE inscription BETWEEN '1990/01/01' AND '1999/12/31';`
 ***
 
-### [Exercices page 26](http://bit.ly/postgresql-26)
+### [Exercices page 26](http://bit.ly/postgresql-26){:target="_blank"}
 __1/__ `SELECT nom, prenom, email, inscription FROM utilisateur ORDER BY nom;`
 
 __2/__ `SELECT COUNT(nom) FROM utilisateur WHERE nom = 'Doe';`
